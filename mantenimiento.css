@@ -1,0 +1,120 @@
+
+body{ background-color: #B5C0D0
+}
+
+.uno{
+    color: rgb(109, 11, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.dos{
+    color: rgb(109, 11, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tres{
+    color: rgb(109, 11, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 55px;
+    background: #171717;
+    width: 100%;
+    z-index: 100;
+}
+
+.play {
+display: flex;
+margin-right: 10px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Logo {
+  margin-left: 30px;   
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Logo a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.play a {
+    display: block;
+    padding: 23px 25px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.texto8{
+   
+    margin-right: 160px;  
+}
+.contenedor8{
+    display: flex;
+    justify-content: right;
+}
+.imagen8{
+    width: 350px;
+    height: 260px;
+}
+.div8{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.man8{
+    color: rgb(109, 11, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.contenedor10{
+    display: flex;
+    justify-content: right;
+}
+
+.div10{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.man10{
+    color: rgb(109, 11, 11);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.texto11{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.tabla,th,td{
+    border: 1px solid;
+   
+    width: 28cm;
+
+}
+.texto10{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+    color: rgb(109, 11, 11);
+
+}
+.texto12{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+    color: rgb(109, 11, 11)
+}
+
+.yy{
+    width: 296px;
+    height: 210px;
+}
+
+
+
+
+
